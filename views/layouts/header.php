@@ -5,8 +5,8 @@ use yii\helpers\Html;
 <header id="top">
     <div class="row">
         <div class="header-content twelve columns">
-            <h1 id="logo-text"><a href="index.html" title="">Keep It Simple.</a></h1>
-            <p id="intro">Put your awesome slogan here...</p>
+            <h1 id="logo-text"><a href="<?=  Url::to('/blog/') ?>" title="">Desarrollo de Tesis - UA</a></h1>
+            <p id="intro">Desarrollo e Implementación De Un Sistema Web De Gestión Documentaria Aplicando Las Metodologías Scrum Y XP, Para La Mejora Del Proceso De Venta. Empresa BRANUSAC.</p>
         </div>
     </div>
     <nav id="nav-wrap">
