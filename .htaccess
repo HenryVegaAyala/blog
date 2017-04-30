@@ -8,8 +8,8 @@ RewriteRule . index.php
 #
 # FORCE HTTP 80 REQUESTS TO REMOVE www ON PRODUCTION
 #------------------------------------------------------------------------------
-RewriteCond %{HTTP_HOST} =dhstore.pe.hu [NC]
-RewriteRule ^(.*)$ http://www.dhstore.pe.hu/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} =repositoriosistemasua.pe.hu [NC]
+RewriteRule ^(.*)$ http://www.repositoriosistemasua.pe.hu/$1 [R=301,L]
 
 #RewriteBase /
 #RewriteCond %{HTTP_HOST} ^dhstore.pe.hu [NC]

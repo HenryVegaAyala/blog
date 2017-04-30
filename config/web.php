@@ -7,8 +7,15 @@ $config = [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'components' => [
+        'session' => [
+            'class' => 'yii\web\DbSession',
+            'sessionTable' => 'session',
+        ],
+        'formatter' => [
+            'defaultTimeZone' => 'UTC',
+            'timeZone' => 'America/Lima',
+        ],
         'request' => [
-            // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => 'qsF4hAH14fEaE1tSLZeDl15PCJbmw5pJ',
         ],
         'cache' => [
@@ -23,9 +30,6 @@ $config = [
         ],
         'mailer' => [
             'class' => 'yii\swiftmailer\Mailer',
-            // send all mails to a file by default. You have to set
-            // 'useFileTransport' to false and configure a transport
-            // for the mailer to send real emails.
             'useFileTransport' => true,
         ],
         'log' => [
@@ -45,6 +49,10 @@ $config = [
             'enableStrictParsing' => false,
             'rules' => [
                 ['pattern' => '/', 'route' => 'site/index', 'suffix' => ''],
+                ['pattern' => 'login', 'route' => 'site/login', 'suffix' => ''],
+                ['pattern' => 'logout', 'route' => 'site/logout', 'suffix' => ''],
+                ['pattern' => 'archivos', 'route' => 'site/archivos', 'suffix' => ''],
+                ['pattern' => 'proyecto', 'route' => 'site/proyecto', 'suffix' => ''],
             ],
         ],
 

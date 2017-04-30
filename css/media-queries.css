@@ -86,7 +86,7 @@
       position: absolute;
       top: 0;
       right: 0;
-      border-top: 6px solid #9FCC7F; 
+      border-top: 6px solid #ff801c; 
    }
    #nav-wrap > a {	   
       text-align: left;
@@ -178,7 +178,7 @@
 		content: "+";
 		display: inline;
 		padding-left: 8px;
-		color: #9FCC7F;
+		color: #ff801c;
 		font-weight: bold;
 		font-size: 18px;
 

@@ -289,7 +289,7 @@ hr { border: solid #E8E8E8; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #93B876;
+   color: #ff801c;
    
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
@@ -351,7 +351,7 @@ ol ol li, ol ul li { }
    color: #444;
 }
 .stats-tabs li a:hover {
-   color: #93B876;
+   color: #ff801c;
 }
 .stats-tabs li a em {
 	display: block;
@@ -363,7 +363,7 @@ ol ol li, ol ul li { }
 
 /* definition list */
 dl { margin: 12px 0; }
-dt { margin: 0; color: #93B876; }
+dt { margin: 0; color: #ff801c; }
 dd { margin: 0 0 0 20px; }
 
 /* Lining Definition Style Markup */
@@ -435,7 +435,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #93B876;
+   background-color: #ff801c;
    color: #fff;
 }
 .pagination .inactive,
@@ -467,7 +467,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 14px/30px 'opensans-bold', sans-serif;
-   background: #9CCF5F;
+   background: #ff801c;
    color: #fff;
    display: inline-block;   
 	text-decoration: none;
@@ -494,7 +494,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #70A431;
+   background: #ff801c;
    color: #fff;
 }
 
@@ -503,7 +503,7 @@ button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-   background: #70A431;
+   background: #ff801c;
    color: #fff;
 }
 
