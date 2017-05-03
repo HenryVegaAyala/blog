@@ -16,20 +16,8 @@ use yii\helpers\Html;
             <ul id="nav" class="nav">
                 <?php if (Yii::$app->user->isGuest): ?>
                     <li class="current"><a href="<?= Url::to(['/site/index']) ?>">Inicio</a></li>
-                    <!--                <li class="has-children"><a href="#">Dropdown</a>-->
-                    <!--                    <ul>-->
-                    <!--                        <li><a href="#">Submenu 01</a></li>-->
-                    <!--                        <li><a href="#">Submenu 02</a></li>-->
-                    <!--                        <li><a href="#">Submenu 03</a></li>-->
-                    <!--                    </ul>-->
-                    <!--                </li>-->
+                    <li><a href="<?= Url::to(['/site/blog']) ?>">Blog</a></li>
                     <li><a href="<?= Url::to(['/site/archivos']) ?>">Archivos</a></li>
-                    <!--                <li class="has-children"><a href="single.html">Blog</a>-->
-                    <!--                    <ul>-->
-                    <!--                        <li><a href="blog.html">Blog Entries</a></li>-->
-                    <!--                        <li><a href="single.html">Single Blog</a></li>-->
-                    <!--                    </ul>-->
-                    <!--                </li>-->
                     <li><a href="<?= Url::to(['/site/proyecto']) ?>">Proyecto</a></li>
                 <?php else: ?>
                     <li><a href="page.html">Proyecto</a></li>

@@ -29,9 +29,9 @@
         <div class="two columns">
             <h3 class="social">Navegador</h3>
             <ul class="navigate group">
-                <li><a href="#">Inico</a></li>
-                <li><a href="#">Archivos</a></li>
-                <li><a href="#">Proyectos</a></li>
+                <li><a href="">Inico</a></li>
+                <li><a href="">Archivos</a></li>
+                <li><a href="">Proyectos</a></li>
             </ul>
         </div>
         <p class="copyright">&copy; Copyright 2017 Desarrollo de Tesis. &nbsp; Universidad Autonoma del Perú - Facultad De Ingeniería Y Arquitectura Escuela De Ingeniería De Sistemas.

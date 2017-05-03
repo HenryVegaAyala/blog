@@ -5,108 +5,62 @@ $this->title = 'Inicio - Desarrollo de Tesis';
     <article class="entry">
         <header class="entry-header">
             <h2 class="entry-title">
-                <a href="single.html" title="">Hey, We Love Open Sans!</a>
+                <a href="single.html" title="">Plan de Tesis.</a>
             </h2>
             <div class="entry-meta">
                 <ul>
-                    <li>July 12, 2014</li>
+                    <li>Diciembre 15, 2016</li>
                     <span class="meta-sep">&bull;</span>
-                    <li><a href="#" title="" rel="category tag">Ghost</a></li>
+                    <li><a href="#" title="" rel="category tag">Universidad Autonoma del Perú</a></li>
                     <span class="meta-sep">&bull;</span>
-                    <li>John Doe</li>
+                    <li>Henry Vega, Robert Pfuño</li>
                 </ul>
             </div>
         </header>
         <div class="entry-content">
-            <p>Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit
-                nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam
-                dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore
-                cillum sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident
-                ullamco ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam
-                consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit
-                quis nostrud sed sed.</p>
+            <p align="justify">
+                El presente trabajo de investigación tiene como objetivo principal desarrollar e
+                implementar un Sistema Web de Gestión Documentaria, para mejorar el Proceso de
+                Ventas de la Empresa BRANUSAC.
+                Esta investigación, es el desarrollo e implementación de un Sistema Web de
+                Gestión Documentaria, cuya implementación y funcionamiento permite al personal del
+                Área de Ventas llevar un mayor control de las Órdenes de Compra y de esta manera se
+                está mejorando el proceso de Ventas, que son realizados por los usuarios que se
+                encuentran ubicado en el área de ventas de la empresa.
+                La hipótesis que se demuestra es que si se usa un Sistema Web de Gestión
+                Documentaria, entonces mejorará el Proceso de Ventas de la Empresa BRANUSAC.
+
+            </p>
         </div>
     </article> <!-- end entry -->
     <article class="entry">
         <header class="entry-header">
             <h2 class="entry-title">
-                <a href="single.html" title="">We All Love Good Typography.</a>
+                <a href="single.html" title="">Desarrollo de Tesis.</a>
             </h2>
             <div class="entry-meta">
                 <ul>
-                    <li>July 11, 2014</li>
+                    <li>Abril 21, 2016</li>
                     <span class="meta-sep">&bull;</span>
                     <li>
-                        <a href="#" title="" rel="category tag">Wordpress</a>,
-                        <a href="#" title="" rel="category tag">Ghost</a>
+                    <li><a href="#" title="" rel="category tag">Universidad Autonoma del Perú</a></li>
                     </li>
                     <span class="meta-sep">&bull;</span>
-                    <li>Jane Doe</li>
+                    <li>Henry Vega, Robert Pfuño</li>
                 </ul>
             </div>
         </header>
         <div class="entry-content">
-            <p>Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit
-                nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam
-                dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore
-                cillum sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident
-                ullamco ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam
-                consequat occaecat fugiat in.</p>
-        </div>
-    </article> <!-- end entry -->
-    <article class="entry">
-        <header class="entry-header">
-            <h2 class="entry-title">
-                <a href="single.html" title="">White Space Everywhere.</a>
-            </h2>
-            <div class="entry-meta">
-                <ul>
-                    <li>July 10, 2014</li>
-                    <span class="meta-sep">&bull;</span>
-                    <li>
-                        <a href="#" title="" rel="category tag">Joomla</a>,
-                        <a href="#" title="" rel="category tag">Drupal</a>
-                    </li>
-                    <span class="meta-sep">&bull;</span>
-                    <li>Naruto Uzumaki</li>
-                </ul>
-            </div>
-        </header>
-        <div class="entry-content">
-            <p>Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit
-                nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam
-                dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore
-                cillum sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident
-                ullamco ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam
-                consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit
-                quis nostrud sed sed.</p>
-        </div>
-    </article> <!-- end entry -->
-    <article class="entry">
-        <header class="entry-header">
-            <h2 class="entry-title">
-                <a href="single.html" title="">Simple And Minimalist Designs.</a>
-            </h2>
-            <div class="entry-meta">
-                <ul>
-                    <li>July 09, 2014</li>
-                    <span class="meta-sep">&bull;</span>
-                    <li>
-                        <a href="#" title="" rel="category tag">Ghost</a>
-                    </li>
-                    <span class="meta-sep">&bull;</span>
-                    <li>Naruto Uzumaki</li>
-                </ul>
-            </div>
-        </header>
-        <div class="entry-content">
-            <p>Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit
-                nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam
-                dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore
-                cillum sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident
-                ullamco ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam
-                consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit
-                quis nostrud sed sed.</p>
+            <p align="justify">
+                Aquí en el desarrollo de tesis la metodología que se utilizará para el desarrollo e implementación del sistema web de
+                gestión documentaria será la Programación Extrema (XP) conjuntamente con Scrum. La
+                cual son metodologías ágiles que permiten realizar una comunicación constante entre el
+                investigador y los clientes.
+                El Planteamiento de las metodologías, herramientas e instrumentos a utilizarse buscan
+                lograr un correcto desarrollo del presente trabajo de investigación, teniendo en cuenta
+                cada una de las actividades a realizarse y el orden que deben seguir estás para obtener la
+                información dentro del tiempo establecido.
+            </p>
         </div>
     </article> <!-- end entry -->
 </div> <!-- end main -->
@@ -115,38 +69,31 @@ $this->title = 'Inicio - Desarrollo de Tesis';
     <div class="widget widget_categories group">
         <h3>Categoria.</h3>
         <ul>
-            <li><a href="#" title="">Wordpress</a> (2)</li>
-            <li><a href="#" title="">Ghost</a> (14)</li>
-            <li><a href="#" title="">Joomla</a> (5)</li>
-            <li><a href="#" title="">Drupal</a> (3)</li>
-            <li><a href="#" title="">Magento</a> (2)</li>
-            <li><a href="#" title="">Uncategorized</a> (9)</li>
+            <li><a href="#" title="">Scrum</a> (5)</li>
+            <li><a href="#" title="">XP</a> (5)</li>
+            <li><a href="#" title="">Entregables</a> (5)</li>
+            <li><a href="#" title="">Plan de Tesis</a> (1)</li>
+            <li><a href="#" title="">Desarrollo de Tesis</a> (1)</li>
         </ul>
     </div>
-    <div class="widget widget_text group">
-        <h3>Widget Text.</h3>
-        <p>Lorem ipsum Ullamco commodo laboris sit dolore commodo aliquip incididunt fugiat esse dolor aute fugiat
-            minim eiusmod do velit labore fugiat officia ad sit culpa labore in consectetur sint cillum sint
-            consectetur voluptate adipisicing Duis irure magna ut sit amet reprehenderit.</p>
-    </div>
+
     <div class="widget widget_tags">
-        <h3>Post Tags.</h3>
+        <h3>Etiquetas.</h3>
         <div class="tagcloud group">
-            <a href="#">Corporate</a>
-            <a href="#">Onepage</a>
-            <a href="#">Agency</a>
-            <a href="#">Multipurpose</a>
-            <a href="#">Blog</a>
-            <a href="#">Landing Page</a>
-            <a href="#">Resume</a>
+            <a href="#">Archivos</a>
+            <a href="#">Proyecto</a>
+            <a href="#">Plan de Tesis</a>
+            <a href="#">Desarrollo de Tesis</a>
+            <a href="#">Producto</a>
         </div>
     </div>
     <div class="widget widget_popular">
-        <h3>Popular Post.</h3>
+        <h3>Desarrollo de Tesis.</h3>
         <ul class="link-list">
-            <li><a href="#">Sint cillum consectetur voluptate.</a></li>
-            <li><a href="#">Lorem ipsum Ullamco commodo.</a></li>
-            <li><a href="#">Fugiat minim eiusmod do.</a></li>
+            <li><a href="#">CAPÍTULO I: Planeamiento Metodologicó.</a></li>
+            <li><a href="#">CAPÍTULO II: Marco Referencial.</a></li>
+            <li><a href="#">CAPÍTULO III: Desarrollo e Implementación del Sistema Web.</a></li>
+            <li><a href="#">Producto Entregable.</a></li>
         </ul>
     </div>
 </div> <!-- end sidebar -->

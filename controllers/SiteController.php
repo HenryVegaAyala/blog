@@ -104,4 +104,9 @@ class SiteController extends Controller
     {
         return $this->render('proyecto');
     }
+
+    public function actionBlog()
+    {
+        return $this->render('blog');
+    }
 }

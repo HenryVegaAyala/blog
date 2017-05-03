@@ -53,6 +53,7 @@ $config = [
                 ['pattern' => 'logout', 'route' => 'site/logout', 'suffix' => ''],
                 ['pattern' => 'archivos', 'route' => 'site/archivos', 'suffix' => ''],
                 ['pattern' => 'proyecto', 'route' => 'site/proyecto', 'suffix' => ''],
+                ['pattern' => 'blog', 'route' => 'site/blog', 'suffix' => ''],
             ],
         ],
 
